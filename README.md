@@ -19,5 +19,5 @@ This project aims to provide a clear, hands-on example of a minimal yet complete
 ## Limitations
 - **Non-persistent data** — all data will be lost when exiting the program.
 - **Single-user, console-only** — no roles or concurrent access.
-- **Simple lookups** — linear search (O(n)); intended for small learning datasets.
+- **Simple lookups** — linear search, intended for small learning datasets.
 
