@@ -4,7 +4,7 @@ Library_lib is a Command Line Interface (CLI) based application designed to mana
 This program is built using Python with the CRUD (Create, Read, Update, Delete) concept, utilizing collection types (lists and dictionaries) for data storage.
 
 ## Objectives
-This project aims to provide a clear, hands-on example of a minimal yet complete library circulation system that beginners can read, run, and extend. Concretely.
+This project aims to provide a clear, hands-on example of a minimal yet complete library circulation system that beginners can read, run, and extend.
 
 ## Users / Clients / Stakeholders
 - **Library Admin** — manages the catalog (add, edit, delete, check stock) and records lending/returns.
